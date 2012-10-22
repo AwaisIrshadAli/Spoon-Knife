@@ -23,6 +23,23 @@ CBitmapWnd::CBitmapWnd(IStream *pStream) : m_Image(pStream)
 //////////////////////////////////////////////////////////////////////////
 //
 // CBitmapWnd::CBitmapWnd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//awaisirshadali@yahoo.com
 //
 
 CBitmapWnd::CBitmapWnd(PCWSTR pszFileName) : m_Image(pszFileName)
