@@ -1,0 +1,16 @@
+commit 9577da7cd792ebfb1d84317a4e834b779411ea22
+Author: Awais irshad ali <awaisirshadali@yahoo.com>
+Date:   Tue Nov 6 00:33:51 2012 +0500
+
+    kernel minimal
+    
+    Signed-off-by: Awais irshad ali <awaisirshadali@yahoo.com>
+
+diff --git a/minimal kernel/minimal kernel.pdf b/minimal kernel/minimal kernel.pdf
+new file mode 100644
+index 0000000..04d70c9
+Binary files /dev/null and b/minimal kernel/minimal kernel.pdf differ
+diff --git a/minimal kernel/minimal.odt b/minimal kernel/minimal.odt
+new file mode 100644
+index 0000000..1101211
+Binary files /dev/null and b/minimal kernel/minimal.odt differ
